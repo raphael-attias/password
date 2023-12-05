@@ -141,7 +141,7 @@ while True:
     print("3. Vérifie ton mot de passe")
     print("q. Quitter")
     
-    choix = input("Entrez 1-2-q : ")
+    choix = input("Entrez 1-2-3-q : ")
 
     # Gestion du menu
     if choix == "1":
